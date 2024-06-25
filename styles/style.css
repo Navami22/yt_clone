@@ -1,6 +1,5 @@
 .thumbnail{
     width: 100%;
-    
 }
 .thumbnail-row{
     margin-bottom: 12px;
@@ -12,9 +11,7 @@
     line-height: 20px;
     margin-bottom: 12px;
 }
-.video-info{
-    font-family: "Roboto",sans-serif;
-}
+
 .video-grid{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
