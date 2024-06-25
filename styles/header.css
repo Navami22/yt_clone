@@ -70,7 +70,27 @@
     margin-top: 4px;
 }
 .right-section{
-    background-color: lightpink;
-    width: 200px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-right: 20px;
+
 }
 
+.upload{
+    height: 24px;
+}
+
+.notifications{
+    height: 24px;
+}
+
+.youtube-apps{
+    height: 24px;
+}
+
+.my_profile{
+    height: 32px;
+    border-radius: 16px;
+}
